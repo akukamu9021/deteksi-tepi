@@ -43,6 +43,9 @@ pip install matplotlib
 ```bash
 pip install imageio
 ```
+```bash
+python app.py
+```
 
 ## License
 
