@@ -11,7 +11,9 @@ Melalui program ini, mahasiswa dapat memahami:
 ✔ Cara kerja konvolusi secara manual  
 ✔ Kernel Sobel untuk mendeteksi tepi  
 ✔ Perbedaan gradien X, Y, dan hasil gabungannya  
-✔ Visualisasi citra sebelum dan sesudah pemrosesan  ## 📦 Teknologi yang Digunakan
+✔ Visualisasi citra sebelum dan sesudah pemrosesan  
+
+## 📦 Teknologi yang Digunakan
 
 - Python 3.x  
 
