@@ -43,6 +43,10 @@ pip install matplotlib
 ```bash
 pip install imageio
 ```
+# jalankan program
+
+note: jangan lupa nama foto atau nama file foto diganti sesuai keingan 
+
 ```bash
 python app.py
 ```
